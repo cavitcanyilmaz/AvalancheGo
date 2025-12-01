@@ -18,3 +18,4 @@
 2025-12-05T06:54:45 | touched: package.json
 2025-12-03T19:46:38 | touched: .env.example
 2025-03-14T13:18:32 | touched: test/Avalanchego.test.js
+2025-12-01T22:57:30 | touched: scripts/deploy.js
